@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to Eazybank accounts related prod APIs"
+  contactDetails:
+    name: "aishwarya Ray - Product Owner"
+    email: "aishwarya@test.com"
+  onCallSupport:
+    - (453)555-1234
+    - (256)523-1234
